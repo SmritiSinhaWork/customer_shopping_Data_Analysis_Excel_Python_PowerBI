@@ -52,12 +52,6 @@ customer_shopping_Data_Analysis_Excel_Python_PowerBI/
 
 ---
 
-## Dashboard Preview
-
-```md id="0q39zy"
-![Dashboard Preview](dashboard/screenshots/dashboard_overview.png)
-```
-
 ## Author
 
 Smriti Sinha
