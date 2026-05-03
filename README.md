@@ -21,12 +21,25 @@ Built using **Python, SQL, and Power BI**.
 ## Project Files
 
 ```text id="l1n7xw"
-customer-shopping-behavior-analysis/
-│── data/
-│── notebooks/
-│── dashboard/
-│── reports/
+customer_shopping_Data_Analysis_Excel_Python_PowerBI/
 │── README.md
+├── data/
+│   ├── raw/
+│   │   └── customer_shopping_raw.csv
+│   └── processed/
+│       └── customer_shopping_cleaned.csv
+│
+├── notebook/
+│   └── customer_shopping.ipynb
+│
+├── dashboard/
+│   ├── customer_shopping_behavior.pbix
+│   └── screenshots/
+│       ├── dashboard_screenshot.png
+│
+└── reports/
+    ├── project_report.pdf
+    └── project_report.ppt
 ```
 
 ---
