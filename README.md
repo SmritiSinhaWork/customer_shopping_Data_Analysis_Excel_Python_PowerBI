@@ -38,11 +38,9 @@ customer_shopping_Data_Analysis_Excel_Python_PowerBI/
 │       ├── dashboard_screenshot.png
 │
 └── reports/
-    ├── project_report.pdf
-    └── project_report.ppt
+    ├── customer_shopping_Report.pdf
+    └── customer_shopping_behavior_PPT.pptx
 ```
-
----
 
 ## Key Features
 
